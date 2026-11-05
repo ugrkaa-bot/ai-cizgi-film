@@ -1,0 +1,59 @@
+{
+  "style": "cute 3D animated character, soft Pixar-like lighting, warm colors, smooth camera, kids friendly, 8 seconds",
+  "characters": {
+    "Pofi": "a small fluffy orange bear cub with a green scarf, big round eyes",
+    "Mimi": "a tiny red frog with a yellow raincoat"
+  },
+  "episodes": [
+    {
+      "no": 1,
+      "title": "Son Kurabiye",
+      "summary": "Pofi tek kalan kurabiyeyi bulur ve Mimi'ye açtığını fark edip paylaşır.",
+      "scenes": [
+        "Pofi the fluffy orange bear cub finds a single cookie on a wooden kitchen table, stomach rumbling, warm sunlight through the window",
+        "Pofi looks at Mimi the tiny red frog sitting sadly by the door, then breaks the cookie in two",
+        "Pofi and Mimi happily share the cookie, sparkles in the air, cozy room"
+      ]
+    },
+    {
+      "no": 2,
+      "title": "Yağmurlu Gün",
+      "summary": "Pofi şemsiyesini yağmurda ıslanan Mimi ile paylaşır.",
+      "scenes": [
+        "Pofi walks on a rainy forest path holding a small red umbrella, puddles splashing, soft rain",
+        "Mimi the red frog in a yellow raincoat shivers under a tree, Pofi notices and hurries over",
+        "Pofi and Mimi walk together under one umbrella, rain stops, a rainbow appears"
+      ]
+    },
+    {
+      "no": 3,
+      "title": "Kayıp Balon",
+      "summary": "Mimi'nin balonu uçar, Pofi ve Mimi birlikte onu bulur.",
+      "scenes": [
+        "Mimi the red frog loses a blue balloon in a sunny meadow, balloon floats up into a bright sky",
+        "Pofi the orange bear cub runs through tall grass pointing at the balloon, Mimi hopping behind",
+        "The balloon snags on a tree branch, Pofi lifts Mimi up and she grabs it, both laughing"
+      ]
+    },
+    {
+      "no": 4,
+      "title": "Uyku Şarkısı",
+      "summary": "Pofi uyuyamayan Mimi'yi ay ışığında yumuşak bir ninniyle uyutur.",
+      "scenes": [
+        "Moonlit bedroom, Mimi the red frog tosses in a tiny bed, stars twinkling outside the window",
+        "Pofi the orange bear cub sits beside the bed humming softly, floating glowing notes in the air",
+        "Mimi falls asleep smiling, Pofi tucks a blanket around her, camera slowly pulls back to the night sky"
+      ]
+    },
+    {
+      "no": 5,
+      "title": "Büyük Dalga",
+      "summary": "Pofi denizde büyük dalgadan korkar, Mimi'nin yardımıyla cesaret bulur.",
+      "scenes": [
+        "Pofi the orange bear cub stands on a sunny beach looking nervously at a big blue wave",
+        "Mimi the red frog takes Pofi's paw, encouraging him, gentle music-like sparkles on the water",
+        "Pofi and Mimi ride the small wave together on a floating surfboard, splashes of water, bright smiles"
+      ]
+    }
+  ]
+}
