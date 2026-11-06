@@ -19,3 +19,6 @@ Instagram'da gördüğün sistemin güvenli, abartısız hali: Claude ile hikaye
 
 ## Yeni bölüm
 Claude'a şunu yazabilirsin: "episodes.json formatında 6. bölümü yaz, Pofi ve Mimi ile, mesajı: sabır."
+
+## Arkadaşın bilgisayarında kurulum
+AMD RX 6600 (8 GB) için adımlar: [docs/KURULUM_AMD.md](docs/KURULUM_AMD.md)
